@@ -1,3 +1,4 @@
+# ![image](https://user-images.githubusercontent.com/68347036/211991414-10a7e585-d380-47cd-8a1e-ca8c27278f64.png)
 # ML-ALGORITHMS-IMPLEMENTATION
 This repository consists of all ML Algorithms implementation. 
 
