@@ -11,4 +11,8 @@ This repository consists of all ML Algorithms implementation.
        (i) Batch Gradient Descent
        (ii) Stochastic Gradient Descent
        (iii) Mini-Batch Gradient Descent
+3. REGULARIZATION -->
+       (i) Ridge Regression
+       (ii) Lasso Regression
+       (iii) ElasticNet Regression
 ```
