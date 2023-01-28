@@ -15,4 +15,7 @@ This repository consists of all ML Algorithms implementation.
        (i) Ridge Regression
        (ii) Lasso Regression
        (iii) ElasticNet Regression
+4. Classification -->
+       (i) Logistic Regression
+5. Classification metrics
 ```
