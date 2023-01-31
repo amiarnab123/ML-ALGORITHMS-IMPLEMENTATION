@@ -17,5 +17,6 @@ This repository consists of all ML Algorithms implementation.
        (iii) ElasticNet Regression
 4. Classification -->
        (i) Logistic Regression
+       (ii) Decision Tree
 5. Classification metrics
 ```
