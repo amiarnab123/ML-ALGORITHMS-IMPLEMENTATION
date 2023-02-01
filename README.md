@@ -19,4 +19,6 @@ This repository consists of all ML Algorithms implementation.
        (i) Logistic Regression
        (ii) Decision Tree
 5. Classification metrics
+6. Ensemble Learning
+       (i) Voting Ensemble
 ```
