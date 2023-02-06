@@ -21,4 +21,6 @@ This repository consists of all ML Algorithms implementation.
 5. Classification metrics
 6. Ensemble Learning
        (i) Voting Ensemble
+       (ii) Bagging Ensemble
+              [i] Random Forest
 ```
