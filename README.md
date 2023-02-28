@@ -18,9 +18,13 @@ This repository consists of all ML Algorithms implementation.
 4. Classification -->
        (i) Logistic Regression
        (ii) Decision Tree
-5. Classification metrics
-6. Ensemble Learning
+5. Classification metrics -->
+6. Ensemble Learning -->
        (i) Voting Ensemble
        (ii) Bagging Ensemble
               [i] Random Forest
+       (iii) Boosting Ensemble
+              [i] AdaBoost Algorithm
+7. Clustering -->
+       (i) KMeans Clustering
 ```
